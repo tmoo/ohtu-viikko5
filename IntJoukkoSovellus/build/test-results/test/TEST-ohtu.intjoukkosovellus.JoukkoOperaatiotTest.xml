@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-04-14T14:15:10" hostname="tuomo-IdeaPad-U330p" time="0.004">
+  <properties/>
+  <testcase name="leikkausToimiiKunSamojaLukuja" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="tyhjanJoukonLeikkausOnTyhja" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="erotusToimiiKunEiSamojaLukuja" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.001"/>
+  <testcase name="erotusTyhjallaJoukollaPalauttaaAlkuperaisen" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="leikkausToimiiKunEiSamojaLukuja" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="erotusToimiiKunSamojaLukuja" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="yhdisteToimii" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
